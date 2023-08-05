@@ -1,4 +1,4 @@
-![image](https://github.com/2211rohit/react-with-typescript/assets/53754318/4cb7b90e-7ae5-4bf5-8940-367ec1baee53)## React App with Typescript
+## React App with Typescript
 
 You want to use TypeScript in React but you’re not sure how to start. You’ve come to the right place!
 
